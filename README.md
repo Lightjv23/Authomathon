@@ -8,11 +8,7 @@ Este README resume e organiza o conteúdo principal do arquivo automathon.pdf qu
 - Escopo e entregáveis
 - Roteiro de ação (visão por fases)
 - Principais KPIs (métricas)
-- Arquitetura e componentes (visão de alto nível)
-- Como rodar / teste local (modelo)
 - Contribuição
-- Autor e contato
-- Licença
 
 Visão geral
 A documentação reunida em automathon.pdf descreve o plano de implantação de uma solução alvo (denominada neste repositório como Authomathon / Automathon). O documento foca em:
