@@ -10,7 +10,7 @@ Este README resume e organiza o conteúdo principal do arquivo automathon.pdf qu
 - Principais KPIs (métricas)
 - Contribuição
 
-Visão geral
+Visão geral  
 A documentação reunida em automathon.pdf descreve o plano de implantação de uma solução alvo (denominada neste repositório como Authomathon / Automathon). O documento foca em:
 - Definir um roteiro de entregas por fases;
 - Estabelecer KPIs que permitam medir progresso e qualidade;
@@ -29,8 +29,7 @@ Escopo e entregáveis
 - Pipelines de CI/CD e deployment para ambiente de staging e produção.
 - Dashboards de monitoramento e relatórios de KPIs.
 
-Roteiro de ação (visão por fases)
-Abaixo está um roteiro template derivado do PDF — adapte prazos e detalhes ao contexto do time.
+Roteiro de ação (visão por fases)  
 
 Fase 0 — Preparação
 - Levantamento de requisitos completos.
@@ -55,9 +54,6 @@ Fase 3 — Estabilização e Escalonamento
 Fase 4 — Monitoramento e Otimização Contínua
 - Dashboards de KPIs em produção.
 - Processos de feedback e roadmap de iterações.
-
-Principais KPIs (métricas sugeridas)
-O PDF inclui uma seção dedicada a KPIs — aqui estão exemplos práticos e comuns que podem estar no documento e que recomendamos acompanhar:
 
 Métricas de desenvolvimento
 - Lead time (tempo desde idéias até entrega em produção).
